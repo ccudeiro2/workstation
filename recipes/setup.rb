@@ -1,7 +1,7 @@
 package 'tree'
 
 file '/etc/motd' do
-  content "Propiedad de Luis
+  content "Property of Luis
 "
   owner "root"
   group "root"
